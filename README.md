@@ -54,7 +54,7 @@ This adds an instance of the `Contact` Class to the list of observers
 | `contactInfo` | `object` | **Required**. Instance of an observer Class |
 
 
-click ()here to know more about observer Class
+#### click [here](#contact) to know more about observer Class
 
 2. ### removePhoneNumber(contactInfo)
 
