@@ -109,7 +109,7 @@ telephone
     .addPhoneNumber(bright)
     .removePhoneNumber(james)
     .dialPhoneNumber(bright)
-    .addPhoneNumber(bliss)
+    .dialPhoneNumber(bright)
 
 
 // OR YOU CAN WRITE THEM AS YOU PLEASE
